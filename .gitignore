@@ -1,0 +1,6 @@
+# Power BI 
+*.tmp
+*.pbip.user
+*.zip
+# Personal settings
+User.zip
